@@ -1,0 +1,23 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "Alto6755.SubFrameDemo",
+	"name": "Sub-Frame Alignment Demo",
+	"version": "v1.0.0",
+	"developer": "Alto6755",
+	"description": "Educational, transparent click-between-frames demo: input is timestamped against the last frame boundary and applied at its true mid-frame offset.",
+	"repository": "https://github.com/Alto6755/SubFrameDemo/new/main/.github/workflows",
+	"settings": {
+		"show-offset-overlay": {
+			"type": "bool",
+			"name": "Show Offset Overlay",
+			"description": "Displays the most recent sub-frame offset (in milliseconds) on screen during gameplay.",
+			"default": false
+		}
+	}
+}
